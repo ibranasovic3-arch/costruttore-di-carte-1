@@ -1,0 +1,6 @@
+{
+  "name": "CartaCraft Studio - Creatore Carte da Gioco e Stampa Professionale",
+  "description": "Editor grafico intuitivo per carte da gioco personalizzabili fronte e retro, esportazione ad alta risoluzione 300 DPI, gestione colori e ordine di mazzi fisici con angoli squadrati o tondi e finiture opache o lucide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
